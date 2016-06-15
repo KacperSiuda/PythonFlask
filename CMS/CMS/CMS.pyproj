@@ -41,6 +41,7 @@
     <Folder Include="CMS\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CMS\templates\Index.html" />
     <Content Include="requirements.txt" />
     <Content Include="CMS\static\content\bootstrap.css" />
     <Content Include="CMS\static\content\bootstrap.min.css" />

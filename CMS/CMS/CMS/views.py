@@ -8,4 +8,4 @@ from CMS import app
 
 @app.route('/')
 def home():
-  return "Hello world!"
+  return render_template('Index.html')
